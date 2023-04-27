@@ -60,9 +60,9 @@ li {
 }
 
 .menu a:hover {
-  border: 2px solid #f7f7f7;
-  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.3);
+  background: #e21;
   transition:.3s;
+  transform: scale(1.1);
 }
 
 .conteudo {
@@ -146,8 +146,7 @@ li {
 
 .vantagens-2:hover {
   border-left: 4px solid red;
-  box-shadow: 10px 5px 5px black;
-  transition:.3s;
+
 
 }
 
